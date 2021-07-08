@@ -1,0 +1,12 @@
+banana
+manzana
+pera
+papa
+zapallo
+
+pollo
+queso
+huevo
+
+leche
+arroz
